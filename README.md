@@ -1,2 +1,2 @@
 # Smart-Answering-Model (SAM-NLP)
-##Semi Supervised learning(Type)
+## Semi Supervised learning(Type)
